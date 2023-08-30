@@ -1,5 +1,8 @@
 #!/bin/bash
 # Script file to be used to for container security
+# Author:  Rick Devera
+# Email:  rdevera@tenable.com
+
 
 #Copy latest code from tenable
 echo "Downloading..."
