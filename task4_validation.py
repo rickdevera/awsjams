@@ -6,6 +6,7 @@ import json
 import sys
 import argparse
 
+# Parse command-line
 parser = argparse.ArgumentParser()
 parser.add_argument("jsonFile")
 args = parser.parse_args()
